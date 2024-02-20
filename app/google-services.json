@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493874868324",
+    "project_id": "pedopt1",
+    "storage_bucket": "pedopt1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493874868324:android:6f2c486aa7cbfe6f446f71",
+        "android_client_info": {
+          "package_name": "com.example.otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AtkgqvU5zRwQ5gnU6E_nvj0kxV4tJKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493874868324:android:f55a235cc94becfb446f71",
+        "android_client_info": {
+          "package_name": "com.example.pet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AtkgqvU5zRwQ5gnU6E_nvj0kxV4tJKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
